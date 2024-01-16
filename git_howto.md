@@ -60,7 +60,7 @@ branch new_branch_name
 
 *Дляля перехода на другую ветку используейте команду*:
 ```
-git checkout branch_name
+git checkout <branch_name>
 ```
 *Для слияния двух веток используйте командру (**merge branck_name**), при этом ветка указанная в имени добавиться в текущую ветку
 ```
