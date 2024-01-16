@@ -53,6 +53,14 @@ git diff number1 number2 (номера двух разных версий чер
 ```
 
 ## Работа с ветками репозитория
+
+Отображение всех веток
+```
+git branch
+``````
+
+
+
 *Чтобы добавить новую ветку репозитория введите командру*:
 ```
 branch new_branch_name
@@ -66,3 +74,4 @@ git checkout branch_name
 ```
 git merg branch_name
 ```
+
